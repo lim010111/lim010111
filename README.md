@@ -43,7 +43,7 @@ rules can't catch. Solo-built on Cloudflare Workers; in Google OAuth review.
 A privacy-first static-site generator that turns an Obsidian vault into a blog — only notes you
 explicitly opt in ever get published. Powers my blog at [woohyun.dev](https://woohyun.dev).
 
-**🛠 [keel](https://github.com/lim010111/keel)**
+**<img src="https://cdn.simpleicons.org/claude" height="16"/> [keel](https://github.com/lim010111/keel)**
 A harness on native Claude Code that gates the SDLC phase by phase. TDD hooks hard-block
 implementation written before its tests; `third-party-review` sends the session to outside
 models (Codex, Gemini) to catch human↔agent drift; a STATUS board keeps state honest.
@@ -51,10 +51,9 @@ Open-source — so an agent ships on rules, not guesses.
 
 ### 🌱 Currently
 
-- 🚀 Shipping **autocolor-calendar** — in Google OAuth review
-- 🧰 Evolving **keel** — my agentic-engineering harness
-- ✍️ Writing at **[woohyun.dev](https://woohyun.dev)**
-- 🎓 Completed **Naver Boostcamp AI Tech 8** (NLP track), Feb 2026
+- Shipping **autocolor-calendar** — in Google OAuth review
+- Evolving **keel** — my agentic-engineering harness
+- Writing at **[woohyun.dev](https://woohyun.dev)**
 
 ### 📫 Connect
 
