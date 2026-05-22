@@ -14,9 +14,9 @@ I'm an AI engineer who cares about *how* language models actually work — from 
 Transformers to PEFT and multi-agent systems — and I prove it with shipped projects, not claims.
 
 I also treat coding agents as something to **manage**, not just use. I built
-[**keel**](https://github.com/lim010111/keel), a harness that enforces engineering norms —
-confirm-before-assuming, test-first, surgical changes — as hooks, so I can ship working
-systems solo, on discipline rather than guesswork.
+[**keel**](https://github.com/lim010111/keel), an open-source harness that enforces
+engineering discipline structurally — TDD-blocking hooks, an always-fresh STATUS board, and
+external-model review gates — so I ship solo on discipline, not guesswork.
 
 ### 🛠️ Stack
 
@@ -44,9 +44,10 @@ A privacy-first static-site generator that turns an Obsidian vault into a blog �
 explicitly opt in ever get published. Powers my blog at [woohyun.dev](https://woohyun.dev).
 
 **🛠 [keel](https://github.com/lim010111/keel)**
-A harness layered on native Claude Code that codifies engineering discipline as hooks — a gate
-that blocks implementation written before its tests, an auto-refreshed project STATUS board,
-plus custom skills and ADR-logged decisions. So an agent ships on rules, not guesses.
+A harness on native Claude Code that gates the SDLC phase by phase. TDD hooks hard-block
+implementation written before its tests; `third-party-review` sends the session to outside
+models (Codex, Gemini) to catch human↔agent drift; a STATUS board keeps state honest.
+Open-source — so an agent ships on rules, not guesses.
 
 ### 🌱 Currently
 
