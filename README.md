@@ -65,5 +65,3 @@ plus custom skills and ADR-logged decisions. So an agent ships on rules, not gue
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lim010111&theme=github-compact&hide_border=true&area=true)
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
