@@ -18,8 +18,6 @@ I also treat coding agents as something to **manage**, not just use. I built
 confirm-before-assuming, test-first, surgical changes — as hooks, so I can ship working
 systems solo, on discipline rather than guesswork.
 
-I optimize for measurable problem-solving over flash.
-
 ### 🛠️ Stack
 
 <div align="center">
