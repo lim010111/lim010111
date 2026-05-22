@@ -51,11 +51,6 @@ Solo-built on Cloudflare Workers; in Google OAuth review.
 A privacy-first static-site generator that turns an Obsidian vault into a blog — only notes you
 explicitly opt in ever get published. Powers my blog at [woohyun.dev](https://woohyun.dev).
 
-**📈 [chart-reader-ai](https://github.com/boostcampaitech8/pro-nlp-finalproject-nlp-15)**
-An LLM-driven futures-market dashboard where adversarial Bull/Bear agents debate price-moving
-events. I built the RAG-backed chatbot tools and the news-clustering pipeline. Naver Boostcamp
-AI Tech final project, team of 6.
-
 ### 🌱 Currently
 
 - 🚀 Shipping **autocolor-calendar** — in Google OAuth review
@@ -71,8 +66,6 @@ AI Tech final project, team of 6.
 <div align="center">
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lim010111&theme=github-compact&hide_border=true&area=true)
-
-![Snake animation](https://raw.githubusercontent.com/lim010111/lim010111/output/snake.svg)
 
 </div>
 
