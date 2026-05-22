@@ -39,7 +39,7 @@ A multi-tenant SaaS that auto-classifies Google Calendar events and color-codes 
 two-stage classifier — fast rule matching first, with a lightweight LLM as fallback for what
 rules can't catch. Solo-built on Cloudflare Workers; in Google OAuth review.
 
-**📝 [noteforge](https://github.com/lim010111/noteforge)**
+**<img src="https://cdn.simpleicons.org/obsidian" height="16"/> [noteforge](https://github.com/lim010111/noteforge)**
 A privacy-first static-site generator that turns an Obsidian vault into a blog — only notes you
 explicitly opt in ever get published. Powers my blog at [woohyun.dev](https://woohyun.dev).
 
