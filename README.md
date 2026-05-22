@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Woohyun Lim 👋
+# Hi, I'm Woohyun Lim
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=AI+Engineer+%C2%B7+LLM+%26+NLP+fundamentals;I+ship+solo+%E2%80%94+on+discipline%2C+not+vibes)](https://woohyun.dev)
 
@@ -8,7 +8,7 @@
 
 ---
 
-### 🧭 About
+### About
 
 I'm an AI engineer who cares about *how* language models actually work — from RNNs and
 Transformers to PEFT and multi-agent systems — and I prove it with shipped projects, not claims.
@@ -18,7 +18,7 @@ I also treat coding agents as something to **manage**, not just use. I built
 engineering discipline structurally — TDD-blocking hooks, an always-fresh STATUS board, and
 external-model review gates — so I ship solo on discipline, not guesswork.
 
-### 🛠️ Stack
+### Stack
 
 <div align="center">
 
@@ -32,7 +32,7 @@ external-model review gates — so I ship solo on discipline, not guesswork.
 
 </div>
 
-### 📦 Selected Work
+### Selected Work
 
 **🗓 [autocolor-calendar](https://github.com/lim010111/autocolor-calendar)**
 A multi-tenant SaaS that auto-classifies Google Calendar events and color-codes them through a
@@ -49,13 +49,13 @@ implementation written before its tests; `third-party-review` sends the session 
 models (Codex, Gemini) to catch human↔agent drift; a STATUS board keeps state honest.
 Open-source — so an agent ships on rules, not guesses.
 
-### 🌱 Currently
+### Currently
 
 - Shipping **autocolor-calendar** — in Google OAuth review
 - Evolving **keel** — my agentic-engineering harness
 - Writing at **[woohyun.dev](https://woohyun.dev)**
 
-### 📫 Connect
+### Connect
 
 [![Blog](https://img.shields.io/badge/Blog-woohyun.dev-58A6FF?style=flat&logo=hugo&logoColor=white)](https://woohyun.dev)
 [![Email](https://img.shields.io/badge/Email-limwoohyun01-D14836?style=flat&logo=gmail&logoColor=white)](mailto:limwoohyun01@gmail.com)
