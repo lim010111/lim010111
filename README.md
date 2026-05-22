@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=AI+Engineer+%C2%B7+LLM+%26+NLP+fundamentals;I+ship+solo+%E2%80%94+on+discipline%2C+not+vibes;RNN+%E2%86%92+Transformer+%E2%86%92+Multi-Agent)](https://woohyun.dev)
 
-![GitHub followers](https://img.shields.io/github/followers/lim010111?style=flat&logo=github&color=58A6FF&labelColor=21262d)
-![GitHub stars](https://img.shields.io/github/stars/lim010111?style=flat&logo=github&color=58A6FF&labelColor=21262d)
-
 </div>
 
 ---
