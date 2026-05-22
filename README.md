@@ -2,7 +2,7 @@
 
 # Hi, I'm Woohyun Lim 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=AI+Engineer+%C2%B7+LLM+%26+NLP+fundamentals;I+ship+solo+%E2%80%94+on+discipline%2C+not+vibes;RNN+%E2%86%92+Transformer+%E2%86%92+Multi-Agent)](https://woohyun.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=AI+Engineer+%C2%B7+LLM+%26+NLP+fundamentals;I+ship+solo+%E2%80%94+on+discipline%2C+not+vibes)](https://woohyun.dev)
 
 </div>
 
