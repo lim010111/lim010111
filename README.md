@@ -36,8 +36,8 @@ systems solo, on discipline rather than guesswork.
 
 **🗓 [autocolor-calendar](https://github.com/lim010111/autocolor-calendar)**
 A multi-tenant SaaS that auto-classifies Google Calendar events and color-codes them through a
-two-stage engine — rule matching narrows candidates, then a lightweight LLM refines meaning.
-Solo-built on Cloudflare Workers; in Google OAuth review.
+two-stage classifier — fast rule matching first, with a lightweight LLM as fallback for what
+rules can't catch. Solo-built on Cloudflare Workers; in Google OAuth review.
 
 **📝 [noteforge](https://github.com/lim010111/noteforge)**
 A privacy-first static-site generator that turns an Obsidian vault into a blog — only notes you
