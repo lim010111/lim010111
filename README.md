@@ -34,11 +34,6 @@ systems solo, on discipline rather than guesswork.
 
 ### 📦 Selected Work
 
-**🛠 [keel](https://github.com/lim010111/keel)**
-A harness layered on native Claude Code that codifies engineering discipline as hooks — a gate
-that blocks implementation written before its tests, an auto-refreshed project STATUS board,
-plus custom skills and ADR-logged decisions. So an agent ships on rules, not guesses.
-
 **🗓 [autocolor-calendar](https://github.com/lim010111/autocolor-calendar)**
 A multi-tenant SaaS that auto-classifies Google Calendar events and color-codes them through a
 two-stage engine — rule matching narrows candidates, then a lightweight LLM refines meaning.
@@ -47,6 +42,11 @@ Solo-built on Cloudflare Workers; in Google OAuth review.
 **📝 [noteforge](https://github.com/lim010111/noteforge)**
 A privacy-first static-site generator that turns an Obsidian vault into a blog — only notes you
 explicitly opt in ever get published. Powers my blog at [woohyun.dev](https://woohyun.dev).
+
+**🛠 [keel](https://github.com/lim010111/keel)**
+A harness layered on native Claude Code that codifies engineering discipline as hooks — a gate
+that blocks implementation written before its tests, an auto-refreshed project STATUS board,
+plus custom skills and ADR-logged decisions. So an agent ships on rules, not guesses.
 
 ### 🌱 Currently
 
