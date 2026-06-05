@@ -10,13 +10,10 @@
 
 ### About
 
-I'm an AI engineer who cares about *how* language models actually work — from RNNs and
-Transformers to PEFT and multi-agent systems — and I prove it with shipped projects, not claims.
-
-I also treat coding agents as something to **manage**, not just use. I built
-[**keel**](https://github.com/lim010111/keel), an open-source harness that enforces
-engineering discipline structurally — TDD-blocking hooks, an always-fresh STATUS board, and
-external-model review gates — so I ship solo on discipline, not guesswork.
+I'm an AI engineer working toward **Agentic Engineering** — not vibe-coding. Grounded in solid
+NLP and LLM fundamentals, I understand how agents actually work and oversee them with that
+understanding. In a field changing faster than ever, I learn aggressively and aim to be
+AI-native — but solving the problem always comes first.
 
 ### Stack
 
