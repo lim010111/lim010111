@@ -52,7 +52,7 @@ drift; a STATUS board keeps state honest. Open-source — so an agent ships on r
 ### Currently
 
 - Shipping **autocolor-calendar** — in Google OAuth review
-- Evolving **keel** — my agentic-engineering harness
+- Evolving **keel** — agentic-engineering harness project
 - Writing at **[woohyun.dev](https://woohyun.dev)**
 
 ### Connect
