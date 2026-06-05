@@ -1,11 +1,3 @@
-<div align="center">
-
-# Hi, I'm Woohyun Lim
-
-</div>
-
----
-
 ### About
 
 I'm an AI engineer working toward **Agentic Engineering** — not vibe-coding. Grounded in solid
