@@ -44,10 +44,13 @@ A privacy-first static-site generator that turns an Obsidian vault into a blog �
 explicitly opt in ever get published. Powers my blog at [woohyun.dev](https://woohyun.dev).
 
 **<img src="https://cdn.simpleicons.org/claude" height="16"/> [keel](https://github.com/lim010111/keel)**
-A harness on native Claude Code that places a gate at each seam where an agent's work crosses
-to a wider audience. TDD hooks hard-block implementation written before its tests;
-`third-party-review` sends the session to outside models (Codex, Gemini) to catch human↔agent
-drift; a STATUS board keeps state honest. Open-source — so an agent ships on rules, not guesses.
+A harness on native Claude Code, built as a change-control plane: agents fail at the *seams*
+where their work crosses to a wider audience, so keel puts one trustworthy gate at each —
+**alignment → verification → merge**. Between gates, TDD hooks hard-block implementation written
+before its tests and a STATUS board keeps state honest; `third-party-review` (the shipped alignment
+gate) sends a session to outside models (Codex, Gemini) to catch human↔agent drift, and an
+adversarial Codex+Claude merge gate guards `main`. Open-source — so an agent ships on rules, not
+guesses.
 
 ### Currently
 
