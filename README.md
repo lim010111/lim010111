@@ -24,8 +24,8 @@ AI-native — but solving the problem always comes first.
 
 **🗓 [autocolor-calendar](https://github.com/lim010111/autocolor-calendar)**
 A multi-tenant SaaS that auto-classifies Google Calendar events and color-codes them through a
-two-stage classifier — fast rule matching first, with a lightweight LLM as fallback for what
-rules can't catch. Solo-built on Cloudflare Workers; in Google OAuth review.
+two-stage classifier — a fast kNN match over event embeddings first, with a lightweight LLM
+fallback for what similarity can't settle. Solo-built on Cloudflare Workers; in Google OAuth review.
 
 **<img src="https://cdn.simpleicons.org/obsidian" height="16"/> [noteforge](https://github.com/lim010111/noteforge)**
 A privacy-first static-site generator that turns an Obsidian vault into a blog — only notes you
@@ -37,8 +37,9 @@ where their work crosses to a wider audience, so keel puts one trustworthy gate 
 **alignment → verification → merge**. Between gates, TDD hooks hard-block implementation written
 before its tests and a STATUS board keeps state honest; `third-party-review` (the shipped alignment
 gate) sends a session to outside models (Codex, Gemini) to catch human↔agent drift, and an
-adversarial Codex+Claude merge gate guards `main`. Open-source — so an agent ships on rules, not
-guesses.
+adversarial Codex+Claude merge gate reviews `main` — I measured it over 15 pushes, found it
+over-blocked, and dialed it from a hard block down to advisory rather than trust the design on
+faith. Open-source — so an agent ships on rules, not guesses.
 
 ### Currently
 
