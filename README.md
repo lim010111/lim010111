@@ -22,22 +22,6 @@ AI-native — but solving the problem always comes first.
 
 ### Selected Work
 
-**🗓 [autocolor-calendar](https://github.com/lim010111/autocolor-calendar)**
-A multi-tenant SaaS that auto-classifies Google Calendar events and color-codes them through a
-two-stage classifier — a fast kNN match over event embeddings first, with a lightweight LLM
-fallback for what similarity can't settle. Solo-built on Cloudflare Workers; in Google OAuth review.
-
-**<img src="https://cdn.simpleicons.org/obsidian" height="16"/> [noteforge](https://github.com/lim010111/noteforge)**
-A privacy-first static-site generator that turns an Obsidian vault into a blog — only notes you
-explicitly opt in ever get published. Powers my blog at [woohyun.dev](https://woohyun.dev).
-
-**<img src="https://cdn.simpleicons.org/claude" height="16"/> [keel](https://github.com/lim010111/keel)**
-A harness on native Claude Code with one gate at each point where agent work reaches a wider
-audience: **alignment → verification → merge**. `third-party-review` sends a session to outside
-models (Codex, Gemini) to catch human↔agent drift, TDD hooks block implementation written before
-its tests, and a STATUS board keeps shared state. The Codex+Claude merge gate blocked 6 of 15
-measured pushes, all judged over-blocks, so I moved it from a hard block to advisory.
-
 **<img src="https://cdn.simpleicons.org/python" height="16"/> [pykeel](https://github.com/lim010111/pykeel)**
 A coding-agent harness that implements LLM calls, the agent loop, and session management without
 SDKs or agent frameworks, built to measure how closely a harness interface is fitted to specific
