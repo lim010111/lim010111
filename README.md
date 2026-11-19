@@ -32,24 +32,29 @@ A privacy-first static-site generator that turns an Obsidian vault into a blog �
 explicitly opt in ever get published. Powers my blog at [woohyun.dev](https://woohyun.dev).
 
 **<img src="https://cdn.simpleicons.org/claude" height="16"/> [keel](https://github.com/lim010111/keel)**
-A harness on native Claude Code, built as a change-control plane: agents fail at the *seams*
-where their work crosses to a wider audience, so keel puts one trustworthy gate at each —
-**alignment → verification → merge**. Between gates, TDD hooks hard-block implementation written
-before its tests and a STATUS board keeps state honest; `third-party-review` (the shipped alignment
-gate) sends a session to outside models (Codex, Gemini) to catch human↔agent drift, and an
-adversarial Codex+Claude merge gate reviews `main` — I measured it over 15 pushes, found it
-over-blocked, and dialed it from a hard block down to advisory rather than trust the design on
-faith. Open-source — so an agent ships on rules, not guesses.
+A harness on native Claude Code with one gate at each point where agent work reaches a wider
+audience: **alignment → verification → merge**. `third-party-review` sends a session to outside
+models (Codex, Gemini) to catch human↔agent drift, TDD hooks block implementation written before
+its tests, and a STATUS board keeps shared state. The Codex+Claude merge gate blocked 6 of 15
+measured pushes, all judged over-blocks, so I moved it from a hard block to advisory.
+
+**<img src="https://cdn.simpleicons.org/python" height="16"/> [pykeel](https://github.com/lim010111/pykeel)**
+A coding-agent harness that implements LLM calls, the agent loop, and session management without
+SDKs or agent frameworks, built to measure how closely a harness interface is fitted to specific
+models. Plan and ADRs are written; v0 (Responses loop, one bash tool, run traces, bwrap sandbox)
+is next.
 
 ### Currently
 
+- Building **pykeel** — v0 agent loop
 - Shipping **autocolor-calendar** — in Google OAuth review
 - Evolving **keel** — agentic-engineering harness project
 - Writing at **[woohyun.dev](https://woohyun.dev)**
 
 ### Connect
 
-[![Blog](https://img.shields.io/badge/Blog-woohyun.dev-58A6FF?style=flat&logo=hugo&logoColor=white)](https://woohyun.dev)
+[![Blog](https://img.shields.io/badge/Blog-woohyun.dev-58A6FF?style=flat&logo=astro&logoColor=white)](https://woohyun.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-woohyun.dev%2Fportfolio-58A6FF?style=flat)](https://woohyun.dev/portfolio/)
 [![Email](https://img.shields.io/badge/Email-limwoohyun01-D14836?style=flat&logo=gmail&logoColor=white)](mailto:limwoohyun01@gmail.com)
 
 <div align="center">
