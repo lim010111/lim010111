@@ -25,15 +25,11 @@ AI-native — but solving the problem always comes first.
 **<img src="https://cdn.simpleicons.org/python" height="16"/> [pykeel](https://github.com/lim010111/pykeel)**
 A coding-agent harness that implements LLM calls, the agent loop, and session management without
 SDKs or agent frameworks, built to measure how closely a harness interface is fitted to specific
-models. Plan and ADRs are written; v0 (Responses loop, one bash tool, run traces, bwrap sandbox)
-is next.
+models.
 
 ### Currently
 
 - Building **pykeel** — v0 agent loop
-- Shipping **autocolor-calendar** — in Google OAuth review
-- Evolving **keel** — agentic-engineering harness project
-- Writing at **[woohyun.dev](https://woohyun.dev)**
 
 ### Connect
 
