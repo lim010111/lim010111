@@ -1,10 +1,3 @@
-### About
-
-I'm an AI engineer working toward **Agentic Engineering** — not vibe-coding. Grounded in solid
-NLP and LLM fundamentals, I understand how agents actually work and oversee them with that
-understanding. In a field changing faster than ever, I learn aggressively and aim to be
-AI-native — but solving the problem always comes first.
-
 ### Stack
 
 <div align="center">
