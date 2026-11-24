@@ -22,7 +22,7 @@ models.
 
 ### Currently
 
-- Building **pykeel** — v0 agent loop
+- Studying **AI Engineering from Scratch** — starting with Agentic Engineering
 
 ### Connect
 
